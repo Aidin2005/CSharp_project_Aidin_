@@ -69,6 +69,35 @@ This is an educational project demonstrating:
 ##  **Sort students by attendance percentage preview**
 <img width="349" height="179" alt="Screenshot 2025-11-28 at 9 18 54 PM" src="https://github.com/user-attachments/assets/398499ec-8bb3-49ee-aed3-bf0b48d06c82" />
 
+## 🧠 **Future Improvements**
+
+| Planned Feature | Description |
+|-----------------|-------------|
+| 🖥 GUI (WinForms / WPF) | Add a graphical user interface for better usability |
+| 📄 CSV / JSON storage | Store and read attendance data in CSV/JSON format |
+| 👥 Multi-group support | Manage multiple student groups or classes |
+| 📊 Excel Export | Export attendance reports directly to Excel format |
+
+---
+
+## 🧑‍💻 **Author**
+
+<div align="center">
+
+| Name | Status | Contact |
+|------|--------|---------|
+| **Turdukulov Aidin** | MATDAIS-23 ID-230121038 | 
+
+</div>
+
+---
+
+<div align="center">
+
+ 
+ *Thank you for checking out the project!* 
+
+</div>
 
 
 
